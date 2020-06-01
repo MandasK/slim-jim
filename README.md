@@ -1,3 +1,3 @@
-# slim-jim
+# HTML Exercise
 
-HTML demo about Rep Jim Cooper, district 5 Nashville
+Small HTML exercise making a page for Nashville District 5 rep Jim Cooper.
